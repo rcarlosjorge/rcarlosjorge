@@ -11,7 +11,7 @@
 
 ## STATS
 
-| <a href="https://github.com/rcarlosjorge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rcarlosjorge&show_icons=true&include_all_commits=true&theme=Gradient&hide_border=true" alt="Carlos Jorge github stats" /></a> | <a href="https://github.com/rcarlosjorge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarlosjorge&layout=compact&theme=Gradient&hide_border=true" /></a> |
+| <a href="https://github.com/rcarlosjorge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricaidito&show_icons=true&include_all_commits=true&theme=Gradient&hide_border=true" alt="Carlos Jorge github stats" /></a> | <a href="https://github.com/rcarlosjorge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarlosjorge&layout=compact&theme=Gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Programming languages
