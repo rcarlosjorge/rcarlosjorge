@@ -11,7 +11,8 @@
 
 ## STATS
 
-![rcarlosjorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarlosjorge&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarlosjorge&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+| ![rcarlosjorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarlosjorge&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarlosjorge&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
 
 ## Programming languages
 
