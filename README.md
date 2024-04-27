@@ -29,6 +29,15 @@ const carlosProfile = {
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 
+## Current Learning Journey
+### 🌱 Current Learning Journey
+Below, I show you the topics I am currently focused on, always looking to expand my skills and knowledge in key areas of modern technology:
+
+#### 🖥️ React and Next.js
+**Focusing on SPA and SSR architectures** to enhance user experience and performance. These technologies allow me to create faster and more efficient applications, significantly improving user interaction.
+
+#### 🏗️ Microservices with .NET
+**Building scalable and maintainable services** using modern back-end frameworks. I am developing my ability to design systems that are not only robust but also flexible and easy to maintain over the long term.
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=rcarlosjorge&theme=holi-theme)](https://git.io/streak-stats)
