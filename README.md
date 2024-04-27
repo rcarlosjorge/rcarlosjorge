@@ -30,6 +30,7 @@ const carlosProfile = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on React and Typescript"
 }
+```
 
 ### 🛠️ Herramientas y Tecnologías:
 
