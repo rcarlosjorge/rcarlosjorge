@@ -1,37 +1,26 @@
 ## Hola, soy Carlos Jorge 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Experienced%20in%20Mobile%20and%20Web%20Apps;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=4D96FF&vCenter=true&size=22">
-</p>
+### 🚀 Sobre mí:
+Soy un **desarrollador fullstack apasionado por el diseño** y la creación de interfaces hermosas y funcionales. En mi rol actual, trabajo con tecnologías como **Angular, .NET, SQL y Azure**, y tengo conocimientos en **AWS**.
 
-### 👨‍💻 Lo que hago:
-- Desarrollo de backend
-- Desarrollo de frontend
-- Desarrollo de aplicaciones móviles
-- Desarrollo de juegos de vez en cuando
+En mi tiempo libre, me encanta explorar nuevas tecnologías y estoy actualmente enfocado en aprender más sobre **React** y **Next.js**. Estoy comprometido con mi desarrollo continuo, participando en varios cursos sobre **React, Machine Learning, React + TypeScript, y Next.js**.
 
-### 📊 Mis estadísticas:
+Además de mi experiencia con las tecnologías mencionadas, tengo habilidades en **PHP, Python, JavaScript, Java, MongoDB, Node.js, PostgreSQL, Git, Unity, Docker, y Kubernetes**. También estoy familiarizado con frameworks de frontend como **Bootstrap, Chakra UI, y Material-UI**.
 
-| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rcarlosjorge&show_icons=true&theme=tokyonight) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarlosjorge&layout=compact&hide_border=true&theme=tokyonight) |
-| ------------- | ------------- |
+Mi pasión por el diseño también se extiende al ámbito de **UX/UI**, utilizando herramientas como **Figma y Canva** para desarrollar diseños impactantes y funcionales.
 
-### 🌐 Lenguajes de Programación y Herramientas:
+🌱 **Actualmente estoy cursando:** "Build a Microservices app with .Net and NextJS from scratch", donde estoy profundizando en la arquitectura de microservicios y el desarrollo avanzado de aplicaciones.
 
-```javascript
-const carlosProfile = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Ruby", "Python", "Java", "C++"],
-  tools: ["React", "Redux", "Node", "Styled-Components", "Jest", "Docker"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "DevMeetings",
-                        speaker: "TechConferences",
-                        mentor: "CodingBootcamps"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on React and Typescript"
-}
-```
+### 💼 Tecnologías que utilizo:
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🛠️ Herramientas y Tecnologías:
+### 🌐 Otros Lenguajes y Herramientas:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+... (y más íconos y badges según lo necesario)
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="25">
