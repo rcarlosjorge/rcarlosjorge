@@ -69,5 +69,21 @@ Below, I show you the topics I am currently focused on, always looking to expand
 #### 🏗️ Microservices with .NET
 **Building scalable and maintainable services** using modern back-end frameworks. I am developing my ability to design systems that are not only robust but also flexible and easy to maintain over the long term.
 
+## Current Projects
+
+<p align="center">
+  <a href="https://github.com/rcarlosjorge/DotNet-Microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcarlosjorge&repo=DotNet-Microservices&theme=buefy" alt="MicroServices Backend" />
+  </a>
+</p>
+
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=rcarlosjorge&theme=holi-theme)](https://git.io/streak-stats)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rcarlosjorge&theme=holi-theme" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/rcarlosjorge">
+    <img src="https://github-readme-stats.vercel.app/api?username=rcarlosjorge&show_icons=true&theme=tokyonight" alt="Carlos's GitHub Stats" />
+  </a>
+</p>
