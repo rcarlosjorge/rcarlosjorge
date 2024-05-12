@@ -75,7 +75,11 @@ Below, I show you the topics I am currently focused on, always looking to expand
   <a href="https://github.com/rcarlosjorge/DotNet-Microservices">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcarlosjorge&repo=DotNet-Microservices&theme=buefy" alt="MicroServices Backend" />
   </a>
+  <a href="https://github.com/rcarlosjorge/nextjs-Microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcarlosjorge&repo=nextjs-Microservices&theme=buefy" alt="MicroServices Frontend" />
+  </a>
 </p>
+
 
 ## Stats
 
