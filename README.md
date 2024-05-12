@@ -80,7 +80,6 @@ Below, I show you the topics I am currently focused on, always looking to expand
   </a>
 </p>
 
-
 ## Stats
 
 | <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=rcarlosjorge&theme=holi-theme" alt="GitHub Streak" /></a> | <a href="https://github.com/rcarlosjorge"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rcarlosjorge&show_icons=true&theme=tokyonight" alt="Carlos's GitHub Stats" /></a> |
