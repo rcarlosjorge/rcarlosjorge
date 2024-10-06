@@ -1,16 +1,17 @@
 # Hi there! I'm Carlos Jorge 👋
 
-I'm a Full-Stack Developer with a deep passion for design, striving to create beautiful and creative software solutions. Currently, I leverage technologies like Angular and .NET at work, and I'm proficient in SQL and Azure, with some knowledge in AWS.
+I'm a Full-Stack Developer with a deep passion for design, striving to create beautiful and creative software solutions. Currently, I leverage technologies like Angular and .NET at work, and I'm proficient in SQL, Azure, and AWS. I'm also actively expanding my expertise in Cloud Architecture and DevOps.
 
-In my spare time, I'm focused on mastering React and exploring Next.js, diving deep into the latest web technologies. I'm continually engaging with new challenges and expanding my skills through courses in React, Machine Learning, React + TypeScript, and Next.js.
+In my spare time, I'm focused on mastering Cloud technologies, including automation, orchestration, and infrastructure as code. I've taken courses such as Red Hat Enterprise Linux Automation with Ansible, Red Hat System Administration 1 (RH124) v9, AWS Tech Essentials, and Terraform Onboarding Programs. Currently, I'm diving into Kubernetes Administration (KUB201v1.26), enhancing my skills in cloud infrastructure management.
 
 ```javascript
 const carlosProfile = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java", "PHP", "C++"],
   tools: ["Angular", ".NET", "React", "Node", "Storybook", "Styled-Components", "Jest", "Docker", "Figma", "Canva"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "Building a Microservices app with .NET and NextJS from scratch"
+  architecture: ["microservices", "event-driven", "cloud-native", "design system pattern"],
+  cloud: ["AWS", "Azure", "Kubernetes", "Terraform", "Ansible"],
+  challenge: "Building a scalable Cloud and Microservices app with .NET and NextJS from scratch"
 }
 ```
 
